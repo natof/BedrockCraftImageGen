@@ -1,0 +1,5 @@
+ADDON_PATH: ""
+CRAFTING_DATA_FILE: './crafting_datas.json'
+OUTPUT_PATH: "./images/output/"
+BASE_IMAGE_PATH: "./images/craft_grind.png"
+VANILLA_TEXTURES_PATH: "./images/vanillaTextures"
